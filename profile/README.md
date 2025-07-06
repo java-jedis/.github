@@ -18,7 +18,7 @@
 
   <h2>🎯</h2>
   <p>
-    Under the banner of JAVA JEDIS, we aim develop Java web applications <br>
+    Under the banner of JAVA JEDIS, we aim to develop Java web applications <br>
      to compete in the prestigious <strong>THERAP JAVA FEST 2025</strong>.
   </p>
 
